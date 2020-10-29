@@ -17,7 +17,7 @@ const useStyles = makeStyles(theme=>({
     backgroundColor: theme.palette.grey[100],
     border: `1px solid ${theme.palette.grey[300]}`,
     borderRadius: "4px",
-    padding: "1px",
+    padding: "0.1rem",
     paddingLeft: ".8rem",
   },
   text: {
